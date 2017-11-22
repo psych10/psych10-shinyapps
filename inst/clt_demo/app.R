@@ -26,7 +26,7 @@ ui <- fluidPage(
                   min = 10,
                   max = 2500,
                   step = 50,
-                  value = 500,
+                  value = 100,
                   dragRange = FALSE),
       checkboxInput("pop_mean", "Population Mean Overlay", FALSE),
       checkboxInput("overlay", "Normal Overlay on Sampling Distribution", 
