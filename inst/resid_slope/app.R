@@ -1,3 +1,4 @@
+library(stringr)
 library(shiny)
 library(tidyverse)
 library(MASS)
