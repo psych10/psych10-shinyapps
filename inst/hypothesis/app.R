@@ -1,5 +1,5 @@
 library(shiny)
-libary(tidyverse)
+library(tidyverse)
 
 ui <- fluidPage(
    
